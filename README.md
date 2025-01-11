@@ -1,6 +1,6 @@
 # Toplu Bilanco Kazıma
 
-Veriler İş Yatırım internet sitesi üzerinden alınmaktadır. 20 dönemlik istediğiniz sayıda hisse senedi bilançosu çekebilirsiniz.
+Veriler İş Yatırım internet sitesi üzerinden alınmaktadır. 28 dönemlik istediğiniz sayıda hisse senedi bilançosu çekebilirsiniz.
 
 Not: Kendim için yazdığım ve kullandığım bir kod yapısıdır. Kendinize göre fonksiyon vb yapılar kullanarak daha sade şekilde hazırlanabilir.
 
