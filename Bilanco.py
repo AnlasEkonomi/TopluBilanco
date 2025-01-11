@@ -52,7 +52,7 @@ for i in hisseler:
     del tarihler[0:4]
     tumveri=[veri]
         
-    for _ in range(0,7):
+    for _ in range(0,12):
         if len(tarihler)==len(yıllar):
             del tarihler[0:4]
         else:
